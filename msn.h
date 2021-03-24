@@ -112,8 +112,8 @@ typedef enum
 #define MSN_BUF_LEN 8192
 
 /* Windows Live Messenger Server*/
-#define MSN_SERVER "messenger.hotmail.com"
-#define MSN_HTTPCONN_SERVER "gateway.messenger.hotmail.com"
+#define MSN_SERVER "m1.escargot.chat"
+#define MSN_HTTPCONN_SERVER "gateway.m1.escargot.chat"
 #define MSN_PORT 1863
 #define WLM_PROT_VER		18
 
